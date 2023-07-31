@@ -7,7 +7,7 @@
 package log
 
 import (
-	backtrace_data "github.com/Authentura/codectrl-go-protobufs/data/backtrace_data"
+	backtrace_data "github.com/STBoyden/codectrl-go-protobufs/data/backtrace_data"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

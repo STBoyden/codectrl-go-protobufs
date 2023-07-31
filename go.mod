@@ -1,4 +1,4 @@
-module github.com/Authentura/codectrl-go-protobufs
+module github.com/STBoyden/codectrl-go-protobufs
 
 go 1.20
 

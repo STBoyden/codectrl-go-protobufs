@@ -8,7 +8,7 @@ package logs_service
 
 import (
 	context "context"
-	log "github.com/Authentura/codectrl-go-protobufs/data/log"
+	log "github.com/STBoyden/codectrl-go-protobufs/data/log"
 	grpc "google.golang.org/grpc"
 	codes "google.golang.org/grpc/codes"
 	status "google.golang.org/grpc/status"

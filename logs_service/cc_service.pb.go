@@ -7,8 +7,8 @@
 package logs_service
 
 import (
-	auth_service "github.com/Authentura/codectrl-go-protobufs/auth_service"
-	log "github.com/Authentura/codectrl-go-protobufs/data/log"
+	auth_service "github.com/STBoyden/codectrl-go-protobufs/auth_service"
+	log "github.com/STBoyden/codectrl-go-protobufs/data/log"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	emptypb "google.golang.org/protobuf/types/known/emptypb"
